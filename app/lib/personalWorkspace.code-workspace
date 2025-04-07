@@ -5,6 +5,18 @@
 		},
 		{
 			"path": "../../../togo-e-voyage"
+		},
+		{
+			"path": "../../../monkey/front-end"
+		},
+		{
+			"path": "../../../../Symfony/PersonalProject/gestion-location"
+		},
+		{
+			"path": "../../../../Symfony/ecoledigitale"
+		},
+		{
+			"path": "../../../pratice-app"
 		}
 	],
 	"settings": {}
